@@ -4,7 +4,6 @@ Problem: Implementing Karatsuba Multiplication algorithm in Python3
 Author: Hemanth Talla
 '''
 
-from math import ceil   
 import logging
 
 logging.basicConfig()
